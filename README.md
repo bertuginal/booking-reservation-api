@@ -37,8 +37,9 @@ A structured RESTful API engineering solution developed using C# and .NET Core, 
 
 ## 📬 Contact
 
-* **Email**: bertuginal@yahoo.com
-* **LinkedIn**: [in/bertuginal](https://linkedin.com)
+📧 **Email:** bertuginal@yahoo.com
+  
+ℹ️ **LinkedIn:** [in/bertuginal](https://linkedin.com)
 
 
 
